@@ -8,6 +8,7 @@ if range(a)==2:
     a=[a[1],a[2],0]
 print (a)
 
-    
+y="hola mundo"
+print (y)
 print (producto_punto)
 
